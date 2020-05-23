@@ -1,0 +1,17 @@
+#wb-sttl img, #wb-sttl object {    
+    width: auto;
+}
+.panel-body h3{
+	margin-top:0;	
+}
+img.pull-right{
+	margin:10px 5px 10px 10px;	
+}
+img.pull-left{
+	margin:10px 10px 10px 5px;	
+}
+summary h2, summary h3, summary h4, summary h5, summary h6 {
+    display: inline;
+    vertical-align: middle;	
+}
+
